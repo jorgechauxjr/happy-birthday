@@ -1,0 +1,17 @@
+/*
+* Style for mobile
+*/
+.container {
+  width: 100%;
+  margin: 100px auto;
+  background: white;
+  border-radius: 20px 20px 0 0;
+}
+
+.top img {
+  width: 100%;
+}
+
+.botom img {
+  width: 100%;
+}
