@@ -15,3 +15,8 @@
 .botom img {
   width: 100%;
 }
+
+aside.right, aside.left {
+  text-align: center;
+  float: inherit;
+}
