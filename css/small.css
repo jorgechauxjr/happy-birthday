@@ -21,9 +21,11 @@ p {
 }
 
 aside.right{
+
   text-align: center;
   float: inherit;
   padding-bottom: 16px;
+  margin-left: 64px;
 }
 
 aside.left {
