@@ -8,6 +8,10 @@
   border-radius: 20px 20px 0 0;
 }
 
+p {
+  margin-right: 32px;
+}
+
 .top img {
   width: 100%;
 }
